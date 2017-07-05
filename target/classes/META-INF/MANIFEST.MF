@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-RedisCache
+Implementation-Version: 1.0.0
+Built-By: 595954
+Implementation-Vendor-Id: com.websystique.springboot
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot-R
+ edisCache/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

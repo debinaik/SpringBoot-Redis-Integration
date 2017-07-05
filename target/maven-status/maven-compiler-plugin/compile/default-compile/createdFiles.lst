@@ -1,0 +1,5 @@
+com\microservice\controller\MessageController.class
+com\microservice\config\RedisConfig.class
+com\microservice\cache\CacheService.class
+com\microservice\cache\impl\RedisService.class
+com\microservice\Application.class
